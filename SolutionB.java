@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SolutionB {
+public class OneWayBinarySearch{
 
   public static void main(String[] args) {
     /**
